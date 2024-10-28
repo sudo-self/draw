@@ -9,7 +9,9 @@ PWA APK:&nbsp;<code>bubblewrap init --manifest https://draw-xyz.vercel.app/manif
 <img width="969" alt="Screenshot 2024-10-27 at 21 03 33" src="https://github.com/user-attachments/assets/9294d603-7eb0-4a87-87e2-8bababbf853c">
 create icns for macOS:&nbsp;<code>makeicns -in favicon.jpg -32 favicon.png -out AppleIcon.icns</code>
 <br />
+<br />
 package.json
+
 ```
 {
   "name": "draw",
