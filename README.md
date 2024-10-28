@@ -3,3 +3,4 @@
 
 <img width="891" alt="Untitled-3" src="https://github.com/user-attachments/assets/0bbff17f-ce0a-4a1f-875c-dea5ff15e413">
 <img width="1353" alt="Untitled-4" src="https://github.com/user-attachments/assets/633c8672-e93b-481d-a2b8-fb18dc4d6a04">
+Test URL: <a href="https://draw-xyz.vercel.app/manifest.json">https://draw-xyz.vercel.app/manifest.json</a>
