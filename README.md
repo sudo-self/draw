@@ -8,3 +8,31 @@ Test URL: <a href="https://draw-xyz.vercel.app/manifest.json">https://draw-xyz.v
 PWA APK:&nbsp;<code>bubblewrap init --manifest https://draw-xyz.vercel.app/manifest.json</code><br>
 <img width="969" alt="Screenshot 2024-10-27 at 21 03 33" src="https://github.com/user-attachments/assets/9294d603-7eb0-4a87-87e2-8bababbf853c">
 create icns for macOS:&nbsp;<code>makeicns -in favicon.jpg -32 favicon.png -out AppleIcon.icns</code>
+
+Package.json
+```
+{
+  "name": "draw",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  
+  "dependencies": {
+    "next": "15.0.1",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "tldraw": "^3.4.0"
+  },
+  
+  "devDependencies": {
+    "postcss": "^8",
+    "tailwindcss": "^3.4.1"
+  }
+}
+
+```
